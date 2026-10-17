@@ -4,4 +4,4 @@
 
 Aplicación web en desarrollo para organizar tareas por categoría y estado. El diseño contempla la creación y edición de tareas, filtros y una vista para cuando la lista está vacía.
 
-Puedes probar la [aplicación desplegada](https://psaraviaq.github.io/PlanificadorDeTareas/) o consultar su [diseño en Figma](https://www.figma.com/design/jTBOOsDFJQd8BpNozD1Tc3/Planificador-de-Tareas?node-id=0-1&t=5OK29bo2uEELImgr-1).
+Puedes probar la [aplicación desplegada](https://psaraviaq.github.io/planificador-de-tareas/) o consultar su [diseño en Figma](https://www.figma.com/design/jTBOOsDFJQd8BpNozD1Tc3/Planificador-de-Tareas?node-id=0-1&t=5OK29bo2uEELImgr-1).
